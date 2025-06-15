@@ -97,6 +97,8 @@ AIChatBot/
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## License
+## Author
 
-[Add your preferred license here]
+Benjamin Tang  
+GitHub: [Benjam1n-Tang](https://github.com/Benjam1n-Tang)  
+LinkedIn: [BTang22](https://linkedin.com/in/BTang22)
